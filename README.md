@@ -1,2 +1,2 @@
 # EssentialCommandsForPostgresql
-notes from amigo postgresql lessens
+notes from amigo postgresql lessons
